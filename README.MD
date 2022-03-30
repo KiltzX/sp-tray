@@ -18,12 +18,6 @@ Screenshot:
 
 ## Installation 
 
-Preferably, you should:
-
-[<img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg?sanitize=true" alt="Get it on GNOME Extensions" height="100" align="middle">][extlink]
-
-
-Alternatively, you could:
 
 1. Clone this repo anywhere on your computer
 
