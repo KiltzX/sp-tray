@@ -3,6 +3,10 @@
 
 Spotify-label-mod is a very simple GNOME Shell extension that displays current track information in the system tray using Spotify's dbus interface without using the web API. There are no playback controls and/or album art display, and there never will be. This is intended to be nothing more than a simple label for Spotify only. 
 
+## The True Change
+
+Added Spotify app icon, to make beautify and make sense from origin
+
 Screenshot: 
 ![tray](https://raw.githubusercontent.com/kiltzx/sp-tray/multi-gtk/example.png)
 
