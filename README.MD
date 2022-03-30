@@ -8,7 +8,7 @@ Spotify-label-mod is a very simple GNOME Shell extension that displays current t
 Added Spotify app icon, to make beautify and make sense from origin
 
 Screenshot: 
-![tray](https://raw.githubusercontent.com/kiltzx/sp-tray/multi-gtk/example.png)
+![tray](https://raw.githubusercontent.com/KiltzX/sp-tray/master/example.png)
 
 ## Features
 
